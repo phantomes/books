@@ -1,7 +1,6 @@
 .*
 *.class
 !.gitignore
-/SourceCode/data-common
 /logs
 
 ~*
